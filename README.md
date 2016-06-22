@@ -1,7 +1,8 @@
-Recently I want use Python on AIX,which is important for my work,so I did search on internet,but I can't find which I want,so I download packages and setp by setp install it,finally I packaged all of package that I use during install,and record all of log here. 
-See also:  
-http://www.perzl.org/aix/index.php?n=main.python
-
+Install Python 2.7 on AIX 6
+=====
+Recently I want use Python on AIX,which is important for my work,so I did search on internet,but I can't find which I want,so I download packages and setp by setp install it,finally I packaged all of package that I use during install,and record all of log here.  
+You can download all of packages from :https://drive.google.com/file/d/0B1u0FAf-iPgfcFdZS1M2TGVUVnc/view?usp=sharing    
+You can also download package of python for aix from:http://www.perzl.org/aix/index.php?n=main.python
 ```xml
 [aix6:root]oslevel
 6.1.0.0
